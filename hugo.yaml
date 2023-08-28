@@ -43,3 +43,10 @@ params:
       url: "https://www.linkedin.com/in/nicolasbarbey/"
     - name: "twitter"
       url: "https://twitter.com/nbarbey"
+
+menu:
+  main:
+    - identifier: posts
+      name: posts
+      url: /posts/
+      weight: 10
