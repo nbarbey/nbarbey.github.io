@@ -10,7 +10,7 @@ params:
   keywords: [Blog, Portfolio, software, methods, architecture]
   author: "Nicolas Barbey"
   # author: ["Me", "You"] # multiple authors
-  #images: ["<link or path of image for opengraph, twitter-cards>"]
+  images: ["<link or path of image for opengraph, twitter-cards>"]
   DateFormat: "January 2, 2006"
   defaultTheme: auto # dark, light
   disableThemeToggle: false
@@ -30,3 +30,16 @@ params:
   hideSummary: false
   showtoc: false
   tocopen: false
+
+  # home info mod parameters
+  homeInfoParams:
+    Title: Thanks for visiting !
+    Content: Feel free to take a look at around !
+
+  socialIcons: # optional
+    - name: "Github"
+      url: "https://github.com/nbarbey/"
+    - name: "Linkedin"
+      url: "https://www.linkedin.com/in/nicolasbarbey/"
+    - name: "twitter"
+      url: "https://twitter.com/nbarbey"
