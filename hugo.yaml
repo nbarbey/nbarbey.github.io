@@ -5,7 +5,7 @@ theme: 'PaperMod'
 
 params:
   env: production # to enable Google Analytics, opengraph, twitter-cards and schema.
-  title: "Yet another blog about software"
+  title: "Yet another blog about software programming"
   description: "A blog about software engineering, methods and architecture"
   keywords: [Blog, Portfolio, software, methods, architecture]
   author: "Nicolas Barbey"
@@ -34,7 +34,9 @@ params:
   # home info mod parameters
   homeInfoParams:
     Title: Thanks for visiting !
-    Content: Feel free to take a look at around !
+    Content: Hey ! My name is Nicolas Barbey. I have being a professional
+      software developer for more than a decade now. I feel that I have some
+      insight to share that may interest other people in the industry.
 
   socialIcons: # optional
     - name: "Github"
