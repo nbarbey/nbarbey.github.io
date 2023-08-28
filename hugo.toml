@@ -1,4 +1,4 @@
 baseURL = 'https://nbarbey.github.io/'
 languageCode = 'en-us'
 title = 'Technical blog of Nicolas Barbey'
-theme = 'ananke'
+theme = 'PaperMod'
