@@ -8,7 +8,6 @@ author: "Nicolas Barbey"
 showToc: true
 TocOpen: false
 draft: false
-hidemeta: false
 comments: false
 description: "(People working in other industries should probably not be miserable at work either, but that is not the concern of this article.)"
 canonicalURL: "https://canonical.url/to/page"
@@ -25,7 +24,7 @@ UseHugoToc: true
 cover:
     image: "<image path/url>" # image path/url
     alt: "<alt text>" # alt text
-    caption: "<text>" # display caption under cover
+    caption: "<text>" # display caption undercover
     relative: false # when using page bundles set this to true
     hidden: true # only hide on current single page
 editPost:
