@@ -1,11 +1,10 @@
 baseURL: 'https://nbarbey.github.io/'
 languageCode: 'en-us'
-title: "Yet another blog about software"
+title: "Software engineering, methods and architecture"
 theme: 'PaperMod'
 
 params:
   env: production # to enable Google Analytics, opengraph, twitter-cards and schema.
-  title: "Yet another blog about software programming"
   description: "A blog about software engineering, methods and architecture"
   keywords: [Blog, Portfolio, software, methods, architecture]
   author: "Nicolas Barbey"
@@ -31,9 +30,10 @@ params:
   # home info mod parameters
   homeInfoParams:
     Title: Thanks for visiting !
-    Content: Hey ! My name is Nicolas Barbey. I have being a professional
+    Content: Hello ! My name is Nicolas Barbey. I have being a professional
       software developer for more than a decade now. I feel that I have some
-      insight to share that may interest other people in the industry.
+      insight to share that may interest other people in this industry.
+      Feel free to take a look around or reach me out.
 
   socialIcons: # optional
     - name: "Github"
@@ -42,6 +42,8 @@ params:
       url: "https://www.linkedin.com/in/nicolasbarbey/"
     - name: "twitter"
       url: "https://twitter.com/nbarbey"
+    - name: "cv"
+      url: "/resume.pdf"
 
 menu:
   main:
@@ -53,4 +55,7 @@ menu:
       name: tags
       url: /tags/
       weight: 12
+    - identifier: resume
+      name: resume
+      url: /resume.pdf
 
