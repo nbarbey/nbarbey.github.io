@@ -40,11 +40,33 @@ the top ten most boring topics of conversation (gladly, nobody is aware of its e
 
 But why ? Why is it so boring ? And what could we do about it ?
 
+### What is boredom ?
+
+But first we should probably try to define boredom.
+This in itself can be pretty boring. What is more boring than documentation ?
+Insisting on definitions of course !
+
+Wikipedia goes like this :
+
+> In conventional usage, boredom, ennui, or tedium is an emotional and 
+> occasionally psychological state experienced when an individual is left
+> without anything in particular to do, is listless and dissatisfied due to a
+> lack of occupation or excitement, is not interested in their surroundings, or
+> feels that a day or period is dull or tedious.
+
+But follows like this :
+
+> There is no universally accepted definition of boredom.
+
+Ah ! Now that is interesting ! It seems that people cannot agree on what boredom
+is exactly.
+
+
 ### Why documentation is so boring ?
 
 How many times have I seen people suddenly realising: "we should write documentation !".
 This is good practice after all. This is part of software quality to have a documentation.
-This is like tests, we should have one.
+This is like tests, we should have some.
 All those arguments rely mostly on a call to authority with no clearly defined purpose.
 
 There is often times not even an explicit audience for the documentation. It is not so
