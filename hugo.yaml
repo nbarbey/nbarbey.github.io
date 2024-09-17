@@ -45,17 +45,40 @@ params:
     - name: "cv"
       url: "/resume.pdf"
 
-menu:
-  main:
-    - identifier: posts
-      name: posts
-      url: /posts/
-      weight: 10
-    - identifier: tags
-      name: tags
-      url: /tags/
-      weight: 12
-    - identifier: resume
-      name: resume
-      url: /resume.pdf
+defaultContentLanguage: en
+defaultContentLanguageInSubdir: false
+languages:
+  fr:
+    contentDir: content/fr
+    disabled: false
+    languageCode: fr-FR
+    languageDirection: ltr
+    languageName: French
+    title: Logiciel, méthodes et architecture
+    weight: 1
+    menu:
+      main:
+        - identifier: posts
+          name: articles
+          url: /posts/
+          weight: 10
+        - identifier: resume
+          name: CV
+          url: /cv.pdf
+  en:
+    contentDir: content/en
+    disabled: false
+    languageCode: en-US
+    languageDirection: ltr
+    languageName: English
+    weight: 2
+    menu:
+      main:
+        - identifier: posts
+          name: posts
+          url: /posts/
+          weight: 10
+        - identifier: resume
+          name: resume
+          url: /resume.pdf
 
