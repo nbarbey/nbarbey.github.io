@@ -7,7 +7,7 @@ tags: ["learning", "neuro-science", "methods", "mob-programming", "TDD"]
 author: "Nicolas Barbey"
 showToc: true
 TocOpen: false
-draft: false
+draft: true
 comments: false
 description: "(People working in other industries should probably not be miserable at work either, but that is not the concern of this article.)"
 canonicalURL: "https://canonical.url/to/page"
