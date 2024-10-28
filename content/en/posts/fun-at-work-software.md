@@ -33,6 +33,5 @@ editPost:
     appendFilePath: true # to append file path to Edit link
 ---
 
-You can see this post on my company technical blog:
+You can see this post on my [company technical blog](https://medium.com/leboncoin-tech-blog/seriously-you-should-be-having-fun-writing-software-at-work-fa92c7cd008c).
 
-https://medium.com/leboncoin-tech-blog/seriously-you-should-be-having-fun-writing-software-at-work-fa92c7cd008c
