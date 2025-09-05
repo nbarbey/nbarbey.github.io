@@ -68,10 +68,8 @@ languages:
       homeInfoParams:
         Title: Bienvenue !
         Content: Salut ! Je m'appelle Nicolas Barbey. Je suis développeur
-          profesionnel depuis plus d'une dizaine d'années. Je publie ici
-          mon CV et quelques articles sur le logiciel et les méthodes
-          de développement en particulier.
-
+          profesionnel depuis 15 ans. Je m'intéresse aux méthodes de
+         développement logiciel en groupe avec un centrage sur les utilisateurs. 
   en:
     contentDir: content/en
     disabled: false
