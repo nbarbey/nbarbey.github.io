@@ -31,9 +31,8 @@ params:
   homeInfoParams:
     Title: Thanks for visiting !
     Content: Hello ! My name is Nicolas Barbey. I have being a professional
-      software developer for more than a decade now. I feel that I have some
-      insight to share that may interest other people in this industry.
-      Feel free to take a look around or reach me out.
+      software developer for 15 years. In this blog, I share my insights
+      about software development practical methods focusing on the users.
 
   socialIcons: # optional
     - name: "Github"
